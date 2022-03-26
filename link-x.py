@@ -1,8 +1,12 @@
 ##### About Tool ####
-# Link - X    :    Hack With Link
-# Author     :    ToxicNoob
-# Version    :    1.0
-# GitHub     :    https://github.com/Toxic-Noob/
+# Original name.       :.   Link - X
+# Link - X             :    Hack With Link
+# modified name        :    C-LINK
+# Modified by          :    SARDEEN-RAHMAN-SPORSHO
+# Github.              :    https://github.com/SARDEEN-RAHMAN-SPORSHO
+# this code Author     :    ToxicNoob
+# Version              :    1.0
+# GitHub               :    https://github.com/Toxic-Noob/
 
 # Learn Everything, Teach Everyone
 # Be a Toxic, Become a Legion
